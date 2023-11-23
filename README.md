@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Meu nome é Maykon, Estou tentando uma carreira com web developer. Sou formado em Análise e Desenvolvimento de Sistemas, e atualmente estou procurando um trabalho. Estou sempre criando novos projetos.</h2>
+<h2 align="left">Olá 👋! Meu nome é Maykon, Estou tentando uma carreira com web developer. Sou formado em Análise e Desenvolvimento de Sistemas, e estou sempre criando novos projetos.</h2>
 
 ###
 
